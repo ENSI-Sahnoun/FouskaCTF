@@ -46,7 +46,11 @@ CTF challenges typically fall into these categories:
 #### 2. Programming Languages
 ```bash
 # Python 3 (essential!)
-sudo apt install python3 python3-pip
+sudo apt install python3 python3-pip python3-venv
+
+# Create a virtual environment (recommended)
+python3 -m venv ctf-env
+source ctf-env/bin/activate  # On Windows: ctf-env\Scripts\activate
 
 # Install common Python libraries
 pip3 install pwntools requests pycryptodome
