@@ -39,7 +39,7 @@ CTF challenges typically fall into these categories:
 ### Essential Software
 
 #### 1. Operating System
-- **Linux** (Ubuntu, Kali Linux, or ParrotOS recommended)
+- **Linux** (Ubuntu, Kali Linux, or Parrot OS recommended)
 - Can use Windows with WSL2 or a virtual machine
 - macOS works but may need additional setup
 

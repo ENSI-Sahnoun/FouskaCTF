@@ -71,7 +71,7 @@ Shift 5: picoCTF{bqnrrhmfsgdqtahbnmczkmxms}
 
 At shift 4, we get: `picoCTF{crossingtherubicondalyont}`
 
-This looks like readable English: "crossing the rubicon daly ont" - close enough! The actual phrase is "Crossing the Rubicon," a famous historical reference.
+This looks like readable English! The text appears to be "crossing the rubicon" (a famous historical phrase) followed by additional characters. This is clearly the correct decryption as it contains recognizable English words, unlike the other shifts.
 
 ### Alternative: Using Online Tools
 
